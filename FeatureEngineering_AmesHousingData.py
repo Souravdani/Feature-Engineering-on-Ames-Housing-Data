@@ -169,6 +169,8 @@ df_objs = pd.get_dummies(df_objs,drop_first=True)
 # Now we have created dumy vars, we will concatenate the splitted df
 
 final_df = pd.concat([df_nums,df_objs],axis=1)
+## Now we have our final dataframe ready to serve for various Machine learning
+# models
 final_df
 
 
