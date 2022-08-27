@@ -1,4 +1,4 @@
-# Feature-Engineering-on-Ames-Housing-Data
+# Feature engineering and house sales prediction using Ames-Housing-Data
 The raw data of Ames housing features and sales has been modified to feed to a model using feature engineering.
 The domain knowledge is very important in the feature engineering. We have txt file to have some knowledge about our dataframe.
 
