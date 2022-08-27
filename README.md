@@ -22,7 +22,8 @@ We splitted our dataframe into two parts Numeric features and string features an
 give our final dataframe, which is ready for modelling.
 
 
-
+>> Different model to predict the house sales were used: Elastic net, SVR, Random Forest.
+   The random forest model gave the best output with r2_score of 0.85.
 
 
 
